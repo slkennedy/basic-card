@@ -5,8 +5,8 @@
             "node_modules/@unumux/willow/_*.scss",
             "node_modules/@unumux/willow/@(components|base-elements|utilities)/_*.scss",
             "node_modules/@unumux/willow/@(components|base-elements|utilities)/**/_*.scss",
-            "node_modules/@unumux/theme-unum-default/_*.scss",            
-            "node_modules/@unumux/theme-unum-default/**/_*.scss"
+            "node_modules/@unumux/theme-coloniallife-default/_*.scss",            
+            "node_modules/@unumux/theme-coloniallife-default/**/_*.scss"
         ],
         "dest": "styles"
     },
