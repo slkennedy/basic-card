@@ -1,1 +1,12 @@
+// $component-card-content-background-color: blue;
+// $theme-primary: gold;
+// $theme-action: gold;
+
 @import "node_modules/@unumux/theme-coloniallife-default/styles";
+
+.constricted {
+    background-color: rgba($theme-base-4, 0.5);
+    margin: 10px auto;
+    max-width: 500px;
+    padding: $space-inset;
+}
